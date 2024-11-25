@@ -4,19 +4,6 @@ This script monitors system metrics (CPU, RAM, and disk usage) and sends email a
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Requirements](#requirements)
-4. [Environment Variables](#environment-variables)
-5. [Code Explanation](#code-explanation)
-6. [Usage](#usage)
-7. [Best Practices](#best-practices)
-8. [References](#references)
-
----
-
 ## Overview
 
 This Python script:
